@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(182 208 209);
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(42, 116, 165);
+    color: white;
+}
+
+#imagen_bici {
+    width: 40%;
+    height: 40%;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+    color: rgb(42, 116, 165);
+}
